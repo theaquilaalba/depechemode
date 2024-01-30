@@ -1,7 +1,10 @@
 /* colours */
 
 header {
-    background-color: black;
+    background-color: #000000;
+    color: #cd0000;
+    min-height: 120px;
+    margin: 0;
 }
 
 section {
